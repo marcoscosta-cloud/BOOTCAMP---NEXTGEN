@@ -1,0 +1,6 @@
+1 - Receber a posição de qual linha e coluna que o jogador atual deseja escolher
+2 - Verificar se a opção escolhida pelo o jogador está disponível,
+caso não exibir uma mensagem "escolha uma outra opção"
+3 - gravar a opção disponível e imprimir no tabuleiro a opção escolhida
+
+
